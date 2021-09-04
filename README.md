@@ -1,2 +1,4 @@
 # yandex_practikum_da
-data analyst
+Проффесия: Аналитик данных
+
+https://practicum.yandex.ru/data-analyst/
