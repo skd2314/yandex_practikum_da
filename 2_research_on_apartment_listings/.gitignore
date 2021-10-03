@@ -4,5 +4,6 @@ _tmp_.zip
 _tmp_.rar
 /logs
 /datasets
+/.ipynb_checkpoints
 
 real_estate_data.csv
