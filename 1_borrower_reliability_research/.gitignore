@@ -1,7 +1,4 @@
-errors.txt
-_tmp_.txt
-_tmp_.zip
-_tmp_.rar
+.gitignore
 /logs
-
+/.ipynb_checkpoints
 data.csv

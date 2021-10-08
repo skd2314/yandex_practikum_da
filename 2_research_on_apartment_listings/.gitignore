@@ -1,9 +1,6 @@
-errors.txt
-_tmp_.txt
-_tmp_.zip
-_tmp_.rar
+.gitignore
 /logs
-/datasets
+
 /.ipynb_checkpoints
 
 real_estate_data.csv
