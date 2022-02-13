@@ -1,3 +1,6 @@
+[Для отображения всего функционала, используйте NBViewer - Jupyter Notebook](https://nbviewer.org/github/skd2314/yandex_practikum_da/blob/master/8_catering_market/catering_market.ipynb "Рынок заведений общественного питания Москвы")
+====
+
 # Рынок заведений общественного питания Москвы
 
 ## Описание проекта
