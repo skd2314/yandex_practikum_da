@@ -1,6 +1,6 @@
 .gitignore
 /logs
-
+/datasets
 /.ipynb_checkpoints
 
 real_estate_data.csv

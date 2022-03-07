@@ -1,4 +1,5 @@
 .gitignore
+/datasets
 /logs
 /.ipynb_checkpoints
 data.csv
