@@ -1,6 +1,6 @@
 # Яндекс Практикум
 
-[![Профессия: Аналитик данных — Яндекс.Практикум](https://yastatic.net/q/logoaas/v2/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.svg?circle=black&color=000&first=white)](https://practicum.yandex.ru/data-analyst/)
+
 
 Курс «Аналитик данных» от [Яндекс.Практикум](https://practicum.yandex.ru/data-analyst/)
 
@@ -22,3 +22,13 @@
 |13.1| [Выпускной проект. Оценка результатов А/B-тестирования](https://github.com/skd2314/yandex_practikum_da/blob/master/12_final_project/AB_test/AB_test.ipynb) | Оценка корректности проведения результатов A/B-теста | *pandas*, *numpy*, *matplotlib*, *math*, *scipy*, *plotly*, *seaborn* | 
 |13.2| [Выпускной проект. Выявление профилей потребления](https://github.com/skd2314/yandex_practikum_da/blob/master/12_final_project/e-commerce/e-commerce.ipynb) | Анализ покупательской активности магазина для дома и быта. Сегментация покупателей по профилю потребления | *pandas*, *numpy*, *pymystem3*, *collections*, *seaborn*, *math*, *scipy*,  *plotly*, *sklearn*|
 |13.3| [Выпускной проект. Анализ базы данных SQL сервиса чтения книг](https://github.com/skd2314/yandex_practikum_da/blob/master/12_final_project/SQL/books_sql.ipynb) | Анализ базы данных сервиса для чтения книг по подписке. Формирование необходимыех SQL - запросов | *pandas* , *numpy*, *sqlalchemy*, *datetime* |
+
+| **Диплом** | **Diploma** |
+| :---------------- | :---------------- |
+|[RU](https://github.com/skd2314/yandex_practikum_da/blob/master/diploma/ru.pdf) |  [EN](https://github.com/skd2314/yandex_practikum_da/blob/master/diploma/en.pdf) |  |
+
+
+[![Профессия: Аналитик данных — Яндекс.Практикум](https://yastatic.net/q/logoaas/v2/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.svg?circle=black&color=000&first=white)](https://practicum.yandex.ru/data-analyst/)
+
+
+
