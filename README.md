@@ -4,12 +4,6 @@
 https://practicum.yandex.ru/data-analyst/
 
 
-# Яндекс Практикум
-Профессия: Аналитик данных
-
-https://practicum.yandex.ru/data-analyst/
-
-
 | **Название проекта** | **Описание** | **Используемые библиотеки** | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Изучение музыкальных предпочтений](https://github.com/skd2314/yandex_practikum_da/blob/master/0_musical_preferences/musical_preferences.ipynb) | Проведение исследования аудитории сервиса Яндекс.Музыка для удержания клиентов и привлечения новых| *pandas* |
